@@ -24,6 +24,7 @@ md_description = "Display color for color codes"
 md_license = "MIT"
 md_url = "https://github.com/albertlauncher/albert-plugin-python-color"
 md_authors = "@manuelschneid3r"
+md_maintainers = ["@manuelschneid3r"]
 
 
 class Plugin(PluginInstance, GlobalQueryHandler):
