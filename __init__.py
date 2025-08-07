@@ -18,13 +18,13 @@ from albert import *
 from string import hexdigits
 
 md_iid = "3.0"
-md_version = "2.0"
+md_version = "2.1"
 md_name = "Color"
 md_description = "Display color for color codes"
 md_license = "MIT"
 md_url = "https://github.com/albertlauncher/albert-plugin-python-color"
-md_authors = "@manuelschneid3r"
-md_maintainers = ["@manuelschneid3r"]
+md_authors = ["@ManuelSchneid3r"]
+md_maintainers = ["@ManuelSchneid3r"]
 
 
 class Plugin(PluginInstance, GlobalQueryHandler):
